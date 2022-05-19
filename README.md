@@ -1,4 +1,4 @@
-<p align="center"><img src="[https://s6.uupload.ir/files/hat.min__9j34.png](https://s6.uupload.ir/files/download_5n74.png)"></p>
+<p align="center"><img src="https://s6.uupload.ir/files/download_5n74.png"></p>
 <h2 align="center"><b>Black Hat SEO</b></h2>
 
 </p>
