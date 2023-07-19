@@ -23,5 +23,5 @@ cd BlackHatSEO;clear;python3 BlackHatSEO.py
 
 * you have to give some proxies
 * u can buy or collect Free proxies
-* it will tell that proxies are Active ir Dead
+* it will tell that proxies are Active or Dead
 * Be a good boy/girl :)
